@@ -1,75 +1,131 @@
 # Localization-Program-Manager
 Localization Program Manager
+
 # Judy Su
 
-📍 Irvine, CA  
-📧 suli2921@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/judy-su-570b5716/)  
-🔧 [GitHub](https://github.com/judysu1983/Localization-Program-Manage)  
+Manager, Localization | Language Quality & International Growth
+
+✉️ [Suli2921@gmail.com](mailto:Suli2921@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/judy-su-570b5716/](https://www.linkedin.com/in/judy-su-570b5716/)
+🌐 Portfolio:
+[https://rise.articulate.com/share/RTec2m4gH9FK0v_QaPdWjMUrIbxqsEsc](https://rise.articulate.com/share/RTec2m4gH9FK0v_QaPdWjMUrIbxqsEsc)
+[https://www.youtube.com/watch?v=RhtkdqhSPWM](https://www.youtube.com/watch?v=RhtkdqhSPWM)
 
 ---
 
-## 🌟 Professional Summary
-
-Experienced Localization & International Operations Leader with over 10 years of experience designing and managing global localization programs. Proven ability to lead distributed teams, optimize processes through automation, and deliver impactful localized customer experiences. Strong background in internationalization (i18n), data analytics, and cross-functional leadership across EMEA, APAC, and LATAM regions.
+# **Localization Technical Program Manager**
 
 ---
 
-## 💼 Professional Experience
+## **Professional Summary**
 
-### **Technical Program Manager, Global Localization & International Strategy**  
-**Avetta LLC**, Remote | *2020 – Present*  
-- Led localization programs across EMEA, APAC, and LATAM markets.
-- Built automated localization pipelines using command-line tools and CAT tool APIs.
-- Partnered with Product, Engineering, and Marketing to localize UI, landing pages, and user flows.
-- Created dashboards to monitor regional engagement and retention KPIs.
-- Streamlined QA workflows, including pseudo-build support and automated screenshot generation.
+Seasoned Localization Program Leader with over 15 years of experience driving global localization programs across enterprise software, cloud platforms, and SaaS products. Adept at scaling end-to-end localization operations, optimizing tools and workflows, and leading cross-functional initiatives that improve the international customer journey.
 
-### **Senior Localization Program Manager**  
-**GlobalSoft Solutions**, Seattle, WA | *2016 – 2020*  
-- Directed localization workflows across 15+ languages for SaaS product suite.
-- Managed vendor relationships, ensuring quality and on-time delivery.
-- Collaborated with engineering teams to integrate i18n best practices.
-- Analyzed market data to improve regional product-market fit.
-
-### **Localization Project Manager**  
-**NextWave Digital**, New York, NY | *2012 – 2016*  
-- Oversaw localization project lifecycles for web, mobile, and marketing content.
-- Introduced scalable workflow systems to reduce translation turnaround by 30%.
-- Supported Agile teams in CI/CD environments with localization QA and testing.
+Expert in bridging strategy and execution—partnering with Product, Marketing, Engineering, and Regional teams to deliver localized content that’s high-quality, culturally relevant, and on time. Proven success leading vendor performance, enhancing quality frameworks, and delivering content to over 200 markets. Bilingual in English and Mandarin with a deep passion for building inclusive, global experiences.
 
 ---
 
-## 🎓 Education
+## **Core Expertise**
 
-**B.A. in International Business (Localization Focus)**  
-University of California, Berkeley | *2012*
+Localization Program Management & Strategy
 
----
+International Customer Experience & Market Readiness
 
-## 🛠️ Skills
+Documentation, UI, and Compliance Content Localization
 
-- Localization Strategy & Execution  
-- Internationalization (i18n)  
-- Automation (CLI Tools, CAT APIs)  
-- Localization QA & Pseudo-builds  
-- Dashboard Building & Data Analysis  
-- Cross-Functional Team Leadership  
-- Vendor & Stakeholder Management  
-- Fluent in English & Mandarin Chinese
+Cross-Functional Leadership (Product, Engineering, Legal, Marketing)
 
----
+Localization QA, Vendor Management & Cost Tracking
 
-## 🌍 Languages
+TMS & Localization Tooling (Smartling, Phrase, XTM, WorldServer)
 
-- English (Native)  
-- Mandarin Chinese (Fluent)
+Structured Content, CMS, GitHub, bitbucket & Version Control
+
+Glossary, Terminology, and Style Guide Management
+
+Data-Driven Reporting & Process Optimization
 
 ---
 
-## 🏆 Notable Achievements
+## **Professional Experience**
 
-- Reduced localization cycle time by 40% via end-to-end automation.
-- Increased localized user engagement by 25% through tailored UX strategies.
-- Designed QA automation framework adopted company-wide.
+### **Localization Program Manager**
 
+**Avetta** | Remote | _March 2025 – Present_
+
+- Manage **day-to-day localization execution** across 5 business units, supporting documentation, product, and compliance content for 100+ markets
+- Coordinate localization schedules, delivery tracking, and issue resolution across internal teams and external vendors
+- Act as a localization SME supporting **documentation publishing workflows, graphics localization, and glossary management**
+- Partner with Product, Engineering, Legal, and regional stakeholders to ensure content is **localizable, accurate, and culturally appropriate**
+- Lead localization QA initiatives, consolidating feedback from reviewers and stakeholders into actionable improvements
+- Support localization cost tracking and vendor performance reviews to ensure delivery remains **on time, high quality, and cost effective**
+- Contribute to process documentation and operational best practices to improve scalability and consistency
+
+---
+
+### **Localization Specialist (Contract)**
+
+**Microsoft** | Remote | _Dec 2024 – Mar 2025_
+
+- Supported localization operations for **50+ SaaS products** across up to 76 languages
+- Collaborated with Engineering and Product teams to ensure **internationalization readiness and localization-friendly workflows**
+- Performed linguistic QA on documentation and UI strings, ensuring accuracy, tone, and consistency
+- Enforced terminology, style guide adherence, and quality standards across platforms
+
+---
+
+### **Localization Program Manager**
+
+**Amazon Web Services (AWS)** | Remote | _Nov 2020 – Jun 2024_
+
+- Led localization programs for **global documentation, training, and technical content**, supporting customers in 200+ countries
+- Owned localization execution across multiple content types, including **technical documentation, communication templates, and educational materials**
+- Coordinated translation vendors, reviewers, and internal stakeholders to maintain delivery schedules and quality benchmarks
+- Drove localization quality improvements through structured QA processes, root-cause analysis, and preventive actions
+- Partnered with tooling and operations teams to improve localization workflows, delivery speed, and scalability
+- Supported terminology and glossary initiatives to improve consistency across large documentation sets
+
+---
+
+### **Localization Engineer / Localization QA Lead**
+
+**Microsoft (Multiple Contracts)** | Redmond, WA | _2013 – 2018_
+
+- Led localization QA and cultural validation programs supporting **43+ languages**
+- Worked closely with Engineering teams to improve **internationalization stability and localization readiness**
+- Designed and executed QA workflows across multiple tools and platforms
+- Provided linguistic and cultural guidance to improve usability and global user experience
+
+---
+
+### **Early Career: Localization Engineering & QA**
+
+**Microsoft, Lionbridge, Pactera, Beyondsoft** | Beijing, China & Redmond, WA | _2005 – 2013_
+
+- Delivered localization engineering, QA, and linguistic review for global enterprise and consumer software
+- Supported structured content, terminology management, and translation memory maintenance
+- Built a strong foundation in localization tooling, workflows, and cross-cultural collaboration
+
+---
+
+## **Key Impact & Achievements**
+
+- Delivered localized documentation and product content to **200+ global markets**
+- Improved localization quality, consistency, and delivery reliability across large-scale programs
+- Strengthened vendor performance through clear expectations, QA metrics, and feedback loops
+- Influenced localization tooling and process improvements that scaled with business growth
+- Recognized as a trusted localization partner across Product, Engineering, and Documentation teams
+
+---
+
+## **Languages**
+
+- English — Native / Fluent
+- Chinese (Mandarin) — Native
+
+---
+
+## **Education**
+
+**Bachelor of Electronic Engineering**
+Xidian University — Xi’an, China
